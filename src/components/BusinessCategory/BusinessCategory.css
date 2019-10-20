@@ -1,0 +1,9 @@
+.form {
+  width: 10%;
+  height: 50%;
+}
+
+.ow-anywhere { 
+   overflow-wrap: anywhere; 
+}
+
